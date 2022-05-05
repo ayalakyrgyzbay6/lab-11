@@ -1,0 +1,19 @@
+.Nav{
+  background-color: rgb(204, 245, 197);
+  height: 23px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+a{
+  padding: 2px 106px;
+  text-decoration: none;
+  color: rgb(75, 114, 53);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+}
+a:hover{
+  background-color: rgb(239, 239, 239);
+  color: rgb(39, 38, 38);
+}

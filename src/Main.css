@@ -1,0 +1,18 @@
+.Main{
+  position:absolute;
+  top: 120px;
+  width: 1240px;
+  height: 877px;
+
+}
+.main-item{
+  text-align: center;
+  margin-left: 500px;
+  color: rgb(75, 114, 53);
+ 
+}
+
+
+.ph{
+  margin-left: 250px;
+}
